@@ -1,3 +1,3 @@
 ## Benjamin Cimatti
 
-[a relative link](CV.md)
+[Link al CV](CV.md)
